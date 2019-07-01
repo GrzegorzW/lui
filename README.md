@@ -1,4 +1,4 @@
-To jest pierwszy projekt Luizy.
+Projekt szkoleniowy :)
 
 Wymagania:
 
